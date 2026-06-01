@@ -79,27 +79,27 @@ Lead Compound Prioritization
 
 ### Comparative Genomics and Orthogroup Analysis
 
-Twenty-eight complete Mpox virus genomes representing Clades Ia, Ib, IIa, and IIb were retrieved from NCBI GenBank and analyzed using OrthoFinder to identify conserved orthologous proteins across diverse viral strains. :contentReference[oaicite:0]{index=0}
+Twenty-eight complete Mpox virus genomes representing Clades Ia, Ib, IIa, and IIb were retrieved from NCBI GenBank and analyzed using OrthoFinder to identify conserved orthologous proteins across diverse viral strains.
 
 ### Functional Annotation and Target Prioritization
 
-Conserved proteins were functionally characterized using InterProScan and UniProt. Essential proteins involved in viral replication, transcription, virion assembly, and host-virus interactions were prioritized. :contentReference[oaicite:1]{index=1}
+Conserved proteins were functionally characterized using InterProScan and UniProt. Essential proteins involved in viral replication, transcription, virion assembly, and host-virus interactions were prioritized.
 
 ### Subtractive Proteomics
 
-BLASTp analysis against the human proteome was performed to eliminate proteins with significant similarity to host proteins, reducing potential off-target effects. :contentReference[oaicite:2]{index=2}
+BLASTp analysis against the human proteome was performed to eliminate proteins with significant similarity to host proteins, reducing potential off-target effects.
 
 ### Structural Bioinformatics
 
-Experimentally resolved structures were obtained from the Protein Data Bank (PDB), while unresolved proteins were modeled using SWISS-MODEL and validated using PROCHECK, VERIFY3D, and ERRAT. :contentReference[oaicite:3]{index=3}
+Experimentally resolved structures were obtained from the Protein Data Bank (PDB), while unresolved proteins were modeled using SWISS-MODEL and validated using PROCHECK, VERIFY3D, and ERRAT. 
 
 ### Structure-Based Drug Discovery
 
-Druggable binding pockets were identified using ProteinPlus. Molecular docking was performed using AutoDock Vina, followed by ADMET evaluation using SwissADME and pkCSM. :contentReference[oaicite:4]{index=4}
+Druggable binding pockets were identified using ProteinPlus. Molecular docking was performed using AutoDock Vina, followed by ADMET evaluation using SwissADME and pkCSM. 
 
 ### Quantum Chemical Analysis
 
-Lead compounds were further analyzed using Density Functional Theory (DFT)-based Frontier Molecular Orbital (FMO) analysis to evaluate molecular reactivity, stability, and electronic properties. :contentReference[oaicite:5]{index=5}
+Lead compounds were further analyzed using Density Functional Theory (DFT)-based Frontier Molecular Orbital (FMO) analysis to evaluate molecular reactivity, stability, and electronic properties.
 
 ---
 
@@ -107,14 +107,14 @@ Lead compounds were further analyzed using Density Functional Theory (DFT)-based
 
 - 28 Mpox virus genomes analyzed.
 - 198 orthogroups identified.
-- 129 conserved single-copy orthogroups detected across all genomes. :contentReference[oaicite:6]{index=6}
-- Progressive filtering reduced the dataset to 13 high-confidence therapeutic targets containing 35 biologically relevant binding pockets. :contentReference[oaicite:7]{index=7}
+- 129 conserved single-copy orthogroups detected across all genomes.
+- Progressive filtering reduced the dataset to 13 high-confidence therapeutic targets containing 35 biologically relevant binding pockets. 
 - Five lead compounds were prioritized through docking, ADMET, redocking validation, and DFT analysis:
   - PubChem CID 3131912
   - PubChem CID 2368032
   - PubChem CID 46360552
   - PubChem CID 3410901
-  - PubChem CID 21005142 :contentReference[oaicite:8]{index=8}
+  - PubChem CID 21005142 
 
 ---
 
@@ -230,6 +230,3 @@ This repository is intended for academic, educational, and research purposes. Al
 ## Author
 
 **B. Sachithananda Reddy**
-
-B.Tech Biotechnology  
-Bioinformatics and Computational Biology Enthusiast
