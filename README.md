@@ -162,19 +162,6 @@ Lead compounds were further analyzed using Density Functional Theory (DFT)-based
 └── docs/
     └── project_report.pdf
 ```
-│
-├── figures/
-│   ├── Orthofinder_Statistics.png
-│   ├── Phylogenetic_Tree.png
-│   ├── SWISSMODEL_Output.png
-│   ├── Binding_Pocket_and_Active_Site.png
-│   ├── Docked_Complex.png
-│   ├── 2D_Interaction_Map.png
-│   └── HOMO_LUMO.png
-│
-└── supplementary/
-    └── Supplementary Tables.xlsx
-```
 
 ---
 
